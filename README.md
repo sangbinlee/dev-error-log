@@ -143,24 +143,6 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
-# 구글 oauth2 - 로컬 ok
-
-
-![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/f149440b-4dc7-4bbd-94dc-a63fdfb067eb)
-
-
-
-![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/b9338a80-3689-4e80-a135-9cf56b081828)
-
-
-
-
-![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/b5fc4013-613b-4385-b6f4-259d9986a75b)
-
-
-
-
-
 
 
 
@@ -259,4 +241,34 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 ![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/8e7ea8bf-fdb9-4322-b6b4-603ff7cee004)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 구글 oauth2 - 로컬 ok
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/f149440b-4dc7-4bbd-94dc-a63fdfb067eb)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/b9338a80-3689-4e80-a135-9cf56b081828)
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/b5fc4013-613b-4385-b6f4-259d9986a75b)
+
+
+
 
