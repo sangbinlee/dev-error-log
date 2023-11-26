@@ -1,1 +1,32 @@
 # dev-error-log
+
+
+
+
+
+
+Error: listen EACCES: permission denied 0.0.0.0:3000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
