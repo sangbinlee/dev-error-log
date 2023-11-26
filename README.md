@@ -444,9 +444,9 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+# https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases-typescript-postgresql
 
-
-
+    npx prisma migrate dev --name tags-model
 
 
 
