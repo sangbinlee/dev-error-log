@@ -377,9 +377,10 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 # 수정시 소팅이 제일 마지막으로 가는 부분 수정 가능한지 보기
 # 그리드 형식과 페이징 기능 넣어보기
 
+# 로그인 후 뒤로가기 하면 뒤로 가지는 문제 보기
 
 
-
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/3404a3d8-e742-4cb0-8543-3bd6826e7347)
 
 
 
