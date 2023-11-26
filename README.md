@@ -60,3 +60,26 @@ http://localhost:3000/api/auth/callback/google
 npm install next-auth
 or
 yarn add next-auth
+
+
+
+
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c4f84864-10e9-4ce6-b7dd-2571794e8e7f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
