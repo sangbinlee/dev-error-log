@@ -168,29 +168,43 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 # 구글 oauth2 - production ok?
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/8485f2fb-b200-44de-834a-3627a7c64eed)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/705f5723-0ddb-43cd-bd2e-4573f23aa433)
 
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/0bdbc9fa-fe14-499f-a5f4-a9e69bc540e9)
 
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/6343ffd4-7b46-434b-80c5-976bfa04442b)
 
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/2ce1f9a3-0e81-4941-a5f8-cfcc409c13c5)
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/4563fedd-c471-491e-ae1f-9f7f293902c7)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/76e176fa-62af-45dd-b26b-11f3f2817d90)
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/ebced283-f341-4946-803d-163eb41a5e2c)
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/18284a3f-c657-4f53-bf8b-7ad00fadee2e)
 
-
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/8395c0f2-c5aa-4856-93a5-82476fd812f4)
 
 
 
