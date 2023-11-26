@@ -418,6 +418,24 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 ![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/e5d1c2b6-65ce-4976-b32c-45f248d3de64)
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c3b7e26f-1d2b-4fd1-877f-8ad1cf8fa713)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/1f1635fd-9027-4f0f-92bc-ecd6bbfe15b4)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/0b72173a-5ca3-4086-aa4f-a174300af341)
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/594308cc-f486-41ad-8398-cb29f18ff137)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/3da90fe9-1bb2-4712-acb4-40f80582a842)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/121c5876-6483-4fa4-ade9-f07ad3cbc85d)
+
+
+
 
 
 
@@ -452,7 +470,10 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+# https://www.youtube.com/watch?v=ot9yuKg15iA
 
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/07e19978-03b3-4cdd-b8bc-a8684c63bc94)
 
 
 
