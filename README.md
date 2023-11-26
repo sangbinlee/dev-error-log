@@ -208,5 +208,52 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/7f64ce14-2ed9-471f-8005-1b692d9a8728)
 
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/b40793ea-41df-4aed-b516-0787f05520a0)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/d84f8867-92c0-4326-9380-48d1947dcdc7)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c857e025-47f3-474b-998d-08eb3fb801c8)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/2310c603-a54d-404c-a9a5-3ffa441cba8d)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/179d4f17-d7b0-4bb2-a344-b98d79f0204a)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/25deecf4-ed8d-417b-a61d-5bbb966043ab)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/71d6a836-a05b-4713-b1c6-925d0576ffdf)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c240a55c-a07a-4426-bde0-f2b6a1f97658)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/1a2e37bc-6d7b-4019-8dc0-1910e37e9d0a)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/ce288d81-f2ae-49ae-95c7-b2b008a9c88e)
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/bb7507f4-e10c-4e4e-b0bc-4500d43f4a3d)
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/954e46be-1510-4756-882b-b0fb495b331f)
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/1a71b9d6-e09e-46ec-bde7-0b1f4e3df4f1)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/8e7ea8bf-fdb9-4322-b6b4-603ff7cee004)
 
