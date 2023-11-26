@@ -83,4 +83,10 @@ yarn add next-auth
 
 
 
+root@ns1:/home/sangbinlee9/front-end/mini-do# lsof -i tcp:3000
+COMMAND     PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+next-serv 19209 root   22u  IPv6  77991      0t0  TCP *:3000 (LISTEN)
+root@ns1:/home/sangbinlee9/front-end/mini-do# kill -9 19209
+root@ns1:/home/sangbinlee9/front-end/mini-do# lsof -i tcp:3000
+root@ns1:/home/sangbinlee9/front-end/mini-do#
 
