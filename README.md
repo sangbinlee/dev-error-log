@@ -339,8 +339,10 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/1186f6a3-1fa7-46f2-8ca0-f91204dcdc43)
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c91561e9-4488-4cfb-97e9-c8608a46fbe8)
 
 
 
