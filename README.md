@@ -479,4 +479,8 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+#  OAuthAccountNotLinked가 표시되면 동일한 이메일 주소와 연결된 다른 제공업체에 이미 로그인했다는 의미입니다.
+https://stackoverflow.com/questions/76554668/oauthaccountnotlinked-error-in-next-auth-with-nextjs-13
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/77dccaf9-ac0c-462b-a35c-7a36db5cbccb)
 
