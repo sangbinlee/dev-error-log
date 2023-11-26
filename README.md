@@ -401,5 +401,5 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 # 트위터, 카카오, 네이버 기타 oauth 로그인 달기
 
-
+# 회원가입, 로그인 기능 넣기
 
