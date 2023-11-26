@@ -346,3 +346,44 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/5eff72cf-ea75-4ccf-97c9-8a1e22b1053a)
+
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/37a27fe5-607a-435c-b578-b36d5a4c3cd2)
+
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/7a661f79-4616-4711-957a-4bd4efb685ec)
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/71bdbc01-4d39-4382-b044-f28653be6037)
+
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/4d090ec8-b2b0-4514-8865-0f8e82de7e07)
+
+
+
+
+
+# 수정시 소팅이 제일 마지막으로 가는 부분 수정 가능한지 보기
+# 그리드 형식과 페이징 기능 넣어보기
+
+
+
+
+
+
+
+
+
+
+
