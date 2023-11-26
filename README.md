@@ -403,3 +403,59 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 # 회원가입, 로그인 기능 넣기
 
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/c49027d4-c0c4-48e0-a75b-3be98e44e431)
+
+
+
+
+
+# github 로그인 테스트 - 운영
+
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/e5d1c2b6-65ce-4976-b32c-45f248d3de64)
+
+
+
+
+
+
+
+
+
+
+
+# nodejs , yarn 설치
+    
+    sudo apt-get update
+    sudo apt-get install build-essential
+    sudo apt-get install curl
+    curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -- 
+    sudo apt-get install nodejs
+    
+    sudo npm install -g yarn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
