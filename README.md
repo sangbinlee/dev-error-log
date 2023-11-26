@@ -78,6 +78,7 @@ yarn add next-auth
 
 
 
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/10f7ce48-3e14-425d-ad70-bbff1e09b1e7)
 
 
 
