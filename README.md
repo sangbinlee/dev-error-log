@@ -382,6 +382,21 @@ root@ns1:/home/sangbinlee9/front-end/mini-do#
 
 ![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/3404a3d8-e742-4cb0-8543-3bd6826e7347)
 
+## 로그인 후 뒤로가기 해서 다시 로그인 시도시 로그인 안되는 증상 있
+ - 로그인 화면에서는 모든 쿠키값 삭제하기 - 안하면 로그인 안되는 증상 있음
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/f305d7a3-8b88-4351-bd7a-2accffcd5bbc)
+
+
+![image](https://github.com/sangbinlee/dev-error-log/assets/4024414/89e93eff-d8fa-43c5-aa13-009e3cc89649)
+
+
+400 오류: redirect_uri_mismatch
+
+
+
+
+
 
 
 # 트위터, 카카오, 네이버 기타 oauth 로그인 달기
